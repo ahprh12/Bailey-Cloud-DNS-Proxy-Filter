@@ -10,3 +10,14 @@ Folder Description:
 
 - Bailey: VPN kill switch, misc. support scripts and Pi Hole DNS export data
 - Granville: mitm proxy scripts for filtering http(s) requests with search key words
+
+
+NOTE: In order to deploy this solution in the cloud, security adjustments must be made. Environment was set up on a Debian system via Google Cloud based on the guides below.
+
+- Pi Hole + OpenVPN Instructions (Wireguard requires Admin on windows)
+
+https://github.com/rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs#finalize-vpn-confgurations-on-server
+
+- Combined with some instructions here:
+
+https://docs.pi-hole.net/guides/vpn/firewall/
