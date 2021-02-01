@@ -1,4 +1,4 @@
-# Bailey-Cloud-DNS-Proxy-Filter
+# Bailey-Cloud-DNS-Proxy-Filter POC
 A fancy content filtration system proof of concept, built upon OpenVPN, Pi-Hole DNS, and mitm proxy. Deployed on Google Cloud.
 Useful concept for creating a safe environment for children, families, and human beings who would desire to set boundaries for innapropriate and harmful content on the web.
 - Family Safety and Internet Web Content Filer
